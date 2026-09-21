@@ -1,0 +1,2 @@
+import Link from "next/link";
+export function Navbar(){return <header className="border-b bg-white/90 backdrop-blur"><div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4"><Link href="/" className="text-xl font-black">Bug<span className="text-brand">Brief</span></Link><nav className="flex items-center gap-5 text-sm font-medium"><Link href="/pricing">Pricing</Link><Link href="/auth/login">Log in</Link><Link href="/auth/signup" className="rounded-lg bg-black px-4 py-2 text-white">Start free</Link></nav></div></header>;}

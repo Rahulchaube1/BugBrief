@@ -234,6 +234,8 @@ BugBrief is developed in the open. Contributions that improve report quality, sa
 - Read the [contribution guide](./CONTRIBUTING.md) before opening a pull request.
 - Review the [security policy](./SECURITY.md) before reporting a vulnerability.
 - Check the [project roadmap](./ROADMAP.md) for current priorities; it is a plan, not a delivery guarantee.
+- Read the [architecture and trust-boundary guide](./docs/architecture.md) before changing API, data, or billing flows.
+- Review the [changelog](./CHANGELOG.md) for notable unreleased changes.
 - Use the [GitHub issue tracker](https://github.com/Rahulchaube1/BugBrief/issues) for reproducible bugs and feature proposals.
 
 ## License

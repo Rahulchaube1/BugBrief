@@ -231,16 +231,14 @@ BugBrief/
 
 BugBrief is developed in the open. Contributions that improve report quality, safety, accessibility, reliability, documentation, and developer experience are welcome.
 
-1. Fork the repository.
-2. Create a focused branch: `git checkout -b feat/your-change`.
-3. Make and test your changes.
-4. Open a pull request with a clear description, screenshots for UI changes, and any relevant test notes.
-
-For bugs or feature ideas, open a [GitHub issue](https://github.com/Rahulchaube1/BugBrief/issues).
+- Read the [contribution guide](./CONTRIBUTING.md) before opening a pull request.
+- Review the [security policy](./SECURITY.md) before reporting a vulnerability.
+- Check the [project roadmap](./ROADMAP.md) for current priorities; it is a plan, not a delivery guarantee.
+- Use the [GitHub issue tracker](https://github.com/Rahulchaube1/BugBrief/issues) for reproducible bugs and feature proposals.
 
 ## License
 
-No license file was present in the repository when this README was updated. Unless a license is added, do not assume the project is available for unrestricted reuse, modification, or redistribution.
+A license file has not yet been added. Public visibility alone does not grant permission to reuse, modify, or redistribute the code. A maintainer must choose and add a license before the project can clearly communicate its open-source reuse terms.
 
 ---
 

@@ -18,7 +18,7 @@ This roadmap describes priorities, not delivery guarantees. Work may change as f
 - [ ] Make quota reservation atomic so concurrent requests cannot exceed a user's allowance.
 - [ ] Validate and normalize model output before storing or returning it.
 - [ ] Add request timeouts, safe error handling, and explicit provider-failure behavior.
-- [ ] Reconcile subscription status from Stripe subscription lifecycle events.
+- [x] Reconcile subscription status from Stripe subscription lifecycle events.
 - [ ] Review service-role access, database policies, and privileged admin operations.
 - [ ] Establish dependency update and vulnerability triage practices.
 

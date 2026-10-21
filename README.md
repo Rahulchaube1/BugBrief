@@ -240,7 +240,7 @@ BugBrief is developed in the open. Contributions that improve report quality, sa
 
 ## License
 
-A license file has not yet been added. Public visibility alone does not grant permission to reuse, modify, or redistribute the code. A maintainer must choose and add a license before the project can clearly communicate its open-source reuse terms.
+This project is distributed under the [MIT License](./LICENSE). Please review the license for the permissions, conditions, and warranty disclaimer.
 
 ---
 
